@@ -23,7 +23,7 @@ function edgeFunctionMock() {
             country: 'China',
             region: 'Guangdong',
             city: 'Shenzhen',
-            isp: 'Tencent Cloud',
+            isp: 'China Telecom',
           },
           serverTime: new Date().toISOString(),
         }))
