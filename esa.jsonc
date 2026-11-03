@@ -1,0 +1,7 @@
+{
+  "name": "ipcheck-esa",
+  "entry": "./functions/getip.js",
+  "assets": {
+    "directory": "./dist"
+  }
+}
